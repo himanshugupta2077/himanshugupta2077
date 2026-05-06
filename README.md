@@ -22,7 +22,7 @@
 > whoami
 himanshu gupta: senior security consultant @ EY GDS
 3.5+ yrs breaking web, api, mobile, network & cloud systems
-50+ assessments · 40+ critical/high vulns · building pentest automation
+50+ assessments · 100+ critical/high vulns · building pentest automation
 ```
 
 ## `projects`
