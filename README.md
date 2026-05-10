@@ -43,6 +43,7 @@ himanshu gupta: senior security consultant @ EY GDS
 
 `side projects`
 - [SafePass](https://github.com/himanshugupta2077/SafePass) offline password manager: tkinter GUI, local mongodb, sha-256 + system keyring
+- [AnkiDeutsch](https://github.com/himanshugupta2077/AnkiDeutsch) AI-Powered German Flashcard Generator for Anki
 - [ChatGPT-Prompt-Queue](https://github.com/himanshugupta2077/ChatGPT-Prompt-Queue) chrome extension: queue multiple prompts, auto-send, copy conversations as markdown
 - [hotstar-ipl-ad-mute](https://github.com/himanshugupta2077/hotstar-ipl-ad-mute) *forked*: mutes ads during hotstar live sport streams
 
