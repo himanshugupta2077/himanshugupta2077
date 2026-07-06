@@ -20,7 +20,8 @@
 
 ```
 > whoami
-himanshu gupta: senior security consultant @ EY GDS
+himanshu gupta
+senior security consultant @ EY GDS
 3.5+ yrs breaking web, api, mobile, network & cloud systems
 50+ assessments · 100+ critical/high vulns · building pentest automation
 ```
@@ -28,7 +29,7 @@ himanshu gupta: senior security consultant @ EY GDS
 ## `projects`
 
 `pentesting & automation`
-- [Talos](https://github.com/himanshugupta2077/talos) MITM-based web app pentest automation. Captures real browser traffic, structures it into an attack surface, and runs auth bypass, IDOR, and access control tests automatically.
+- PRIVATE REPO [Talos](https://github.com/himanshugupta2077/talos) MITM-based web app pentest automation. Captures real browser traffic, structures it into an attack surface, and runs auth bypass, IDOR, and access control tests automatically.
 - [NPA-Network-Pentest-Automation-Framework](https://github.com/himanshugupta2077/NPA-Network-Pentest-Automation-Framework) modular framework for network assessments: scope input, host detection, port scanning via nmap/rustscan
 - [ReconRadar](https://github.com/himanshugupta2077/ReconRadar) bug bounty workflow automation on kali: env setup, tool management, mongodb output centralization
 - [nmapAutomator](https://github.com/himanshugupta2077/nmapAutomator) *forked*: background nmap automation script
