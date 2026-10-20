@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-### `Offensive Security`
+### `Security Engineering · Offensive Security`
 
 [![Portfolio](https://img.shields.io/badge/himanshu--gupta.com-000000?style=flat-square&logo=safari&logoColor=00ff80)](https://himanshu-gupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshugupta2077)
@@ -21,10 +21,21 @@
 ```
 > whoami
 himanshu gupta
-senior security consultant @ EY GDS
-3.5+ yrs breaking web, api, mobile, network & cloud systems
-50+ assessments · 100+ critical/high vulns · building pentest automation
+cybersecurity manager
+prev: senior security consultant @ EY GDS
+4+ yrs breaking web, api, mobile, network & cloud systems
+50+ assessments · 100+ critical/high vulns · building security automation
 ```
+
+## `now`
+
+- **vulnerability management**: CVE triage, prioritization and patch lifecycle across services, containers, infra & proxies
+- **supply-chain security**: automated dependency scanning, SBOM generation, image signing, continuous upgrade pipelines (Trivy, Grype, Snyk, Dependabot)
+- **cloud-native hardening**: GCP, Kubernetes, image hardening, secrets management, least-privilege IAM, network policy
+- **network security**: proxies, TLS, WAFs, load balancers kept current and patched
+- **security reviews**: threat modeling, design reviews of new services, periodic audits, OWASP Top 10
+- **incident response**: leading response, disclosure and remediation; DR failover testing with devops
+- **ai-driven automation**: using AI tools to make staying secure the default
 
 ## `projects`
 
