@@ -22,7 +22,7 @@
 ```
 > whoami
 himanshu gupta
-head of cyber security @ us-based saas startup (remote)
+cyber security manager @ us-based saas startup (remote)
 prev: senior security consultant @ EY GDS · securityboat
 4+ yrs breaking web, api, mobile, network & cloud systems
 50+ assessments · 100+ critical/high vulns · building security automation
